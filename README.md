@@ -4,4 +4,4 @@
 _Hei på deg_  
 **YOLO**  
 [X] Gjør denne oppgaven.  
-[ ] Og denne.  
+[X] Og denne.  
