@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# User-specific files
+# User-specific file
 *.suo
 *.user
 *.userosscache
@@ -26,6 +26,8 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+.dropbox/
+
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
